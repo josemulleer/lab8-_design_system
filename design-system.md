@@ -49,21 +49,3 @@ I made sure the text is readable and added hover states.
 ### Clarity
 
 I kept the layout simple and organized.
-
-## Reflection
-
-### How does defining design tokens improve your code?
-
-It makes it easier to manage because I can change things in one place.
-
-### What tradeoffs did you consider?
-
-I kept the design simple instead of using too many colors.
-
-### How did AI help?
-
-It helped me improve small things like consistency.
-
-### What would you add next?
-
-I would add a navbar and maybe a form.
